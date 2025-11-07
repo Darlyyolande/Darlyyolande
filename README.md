@@ -6,7 +6,7 @@
 
 ### 💡 About Me  
 
-I'm a motivated and curious **junior web developer** currently completing a **Web and Software Development program** at the [Digital Career Institute (DCI), Berlin](https://digitalcareerinstitute.org).  
+I'm a motivated and curious **junior web developer** currently completing a **Web and Software Development programm at the [Digital Career Institute (DCI), Berlin](https://digitalcareerinstitute.org).  
 I’m passionate about **creating user-friendly websites and web applications**, and I’m constantly exploring new technologies to improve my skills.  
 
 My journey has been unique — from **management and customer service** to **digital technology**.  
@@ -16,13 +16,30 @@ This background gives me a strong sense of **organization, problem-solving, and 
 
 ### 🛠️ Tech Stack  
 
-- **Frontend:** HTML, CSS, SCSS, Bootstrap, JavaScript, React  
-- **Backend:** Node.js, Express.js, REST API  
-- **Database:** MongoDB, Mongoose  
-- **Tools & Workflow:** Git, GitHub, NPM, Linux, VS Code, Figma  
-- **Currently learning:** TypeScript & Next.js  
+#### 🚧 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?logo=api&logoColor=white)
+
+#### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
+
 
 ### 🌍 Languages  
 
